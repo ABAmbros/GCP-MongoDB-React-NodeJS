@@ -1,3 +1,5 @@
+![Alt text](img/Cabecera.png)
+
 # React NodeJS Cloud Builds
 
 El siguiente proyecto detalla los pasos para levantar una app con front-end en react y back-end en nodejs.   
