@@ -1,3 +1,5 @@
+![Alt text](img/Cabecera.png)
+
 # Proyecto-React-Node-Mongo
 
 ## Planteamiento del proyecto
